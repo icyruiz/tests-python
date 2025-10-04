@@ -1,7 +1,7 @@
 # This code calculates the day of return from 
 # holidays, asking the user for the day they left
-# and how many days are out, counting Sunday as 
-# day 0 and Saturday the day 6
+# and how many days they'll be  out, counting Sunday
+# as day 0 and Saturday the day 6
 
 
 starting_day_number = input("what number of day are you leaving? ")
